@@ -4,7 +4,7 @@
 
 This repository demonstrates a **production-grade Golang backend service** designed using **clean architecture principles**. The project is inspired by real-world enterprise systems (media / content platforms) and focuses on **scalability, maintainability, and clarity**.
 
-> ⚠️ Note: This project is a **sanitized, public version** created for demonstration purposes only. No proprietary or confidential information is included.
+> Note: This project is a **sanitized, public version** created for demonstration purposes only. No proprietary or confidential information is included.
 
 ---
 
