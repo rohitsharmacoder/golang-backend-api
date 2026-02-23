@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	"your-repo/internal/httpserver"
+	"golang-backend-api/internal/httpserver"
 )
 
 func main() {

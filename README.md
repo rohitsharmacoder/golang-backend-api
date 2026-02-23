@@ -80,7 +80,7 @@ git clone https://github.com/<your-username>/golang-backend-api.git
 cd golang-backend-api
 
 # run application
-go run cmd/main.go
+go run cmd/api/main.go
 ```
 
 ---
